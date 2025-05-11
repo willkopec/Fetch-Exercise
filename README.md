@@ -5,6 +5,15 @@ This is a exercise made for [Fetch](https://fetch.com/) . The App is made using 
 
 ### Images:
 
+![image](https://github.com/user-attachments/assets/6a6e9a26-7b7d-49d5-95f9-826e659627f5)
+
+![image](https://github.com/user-attachments/assets/538c9546-5e21-4920-b1bf-0702f989f1dd)
+
+![image](https://github.com/user-attachments/assets/2010dba8-265e-447e-ad1f-8d0af454cef1)
+
+![image](https://github.com/user-attachments/assets/a1e28c5a-bd89-4dd2-826a-d55e9451fe23)
+
+![image](https://github.com/user-attachments/assets/5d7cc550-9fa5-4eac-b19e-a3b995258f7e)
  
 ### Libraries Used:
 ###### - Koin
